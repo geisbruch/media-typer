@@ -1,3 +1,8 @@
+1.x
+===
+
+  * Remove `parse(req)` and `parse(res)` signatures
+
 0.3.0 / 2014-09-07
 ==================
 
